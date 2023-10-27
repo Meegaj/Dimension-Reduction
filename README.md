@@ -21,4 +21,9 @@ Transforms the 4D data into 2D by projecting it onto the two most significant pr
 
 Plots the 2D representation of the dataset obtained through PCA, using different colors for different species.
 Displays the plot with axes (PC_1 and PC_2) as the 2 principal components.
+
+
 ![download (2)](https://github.com/Meegaj/Dimension-Reduction/assets/125159642/c7ee8e34-8dfc-48f1-9b07-ab896b205ed6)
+
+# References
+Iris dataset: wikipedia.org/wiki/Iris_flower_data_set
